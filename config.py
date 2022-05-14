@@ -18,9 +18,7 @@ DEFAULT_HEADERS = {
 """
 调试用 COOKIE
 """
-TEST_COOKIE = ''
-
-
+TEST_COOKIE =__ckguid=kel5oTa36yxraK12irTYgCy6
 """
 调试用 SERVERCHAN_SECRETKEY
 """
